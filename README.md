@@ -4,9 +4,9 @@
 
 # View Deployment
 
-> [Click to View] (https://csb-dq12d-7y32xvzzj.vercel.app/)
+- [Click to view](https://csb-dq12d-7y32xvzzj.vercel.app/)
 
 ## API References
 
-> [JSON placeholder] (https://jsonplaceholder.typicode.com)
-> [Unsplash] (https://source.unsplash.com/random/)
+- [JSON placeholder] (https://jsonplaceholder.typicode.com)
+- [Unsplash] (https://source.unsplash.com/random/)
