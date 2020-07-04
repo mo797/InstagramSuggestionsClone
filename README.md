@@ -1,22 +1,12 @@
-# React Instagram Friend Suggestions Feature
+# React Instagram Friend Suggestions Clone
 
-> Learn how to re create the instagram people discover feature sliders in React
+> This project is made as a part of my experiments with react, This project features a Clone of the Instagram Suggestions Component replicated using react. Covers the use or Sliding components and the use of API's to generate Randome names and images in the Friends Suggestion Card.
 
-## Quick Start
+# View Deployment
 
-```bash
-# Clone project
-git clone https://github.com/CryceTruly/friends-suggestion-app.git
+> [Click to View] (https://csb-dq12d-7y32xvzzj.vercel.app/)
 
-# Install dependencies
-npm install -g yarn
+## API References
 
-yarn install
-
-
-# Run
-yarn start
-```
-
-# Watch the Video on Youtube
-[![Watch the video](https://www.techadvisor.co.uk/cmsdata/features/3681165/youtube-logo-png-2069_thumb800.png)](https://youtu.be/uPv6OyyO6Hw)
+> [JSON placeholder] (https://jsonplaceholder.typicode.com)
+> [Unsplash] (https://source.unsplash.com/random/)
