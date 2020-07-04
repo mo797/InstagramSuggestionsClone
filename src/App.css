@@ -1,0 +1,51 @@
+body {
+  background-color: #312f2f;
+}
+
+.card {
+  text-align: center;
+  padding-top: 10px;
+  opacity: 1;
+  width: 200px;
+  background-color: #000;
+  box-shadow: 10px 10px 10px #131212;
+}
+
+.card-title {
+  color: #fff;
+  display: block;
+  overflow: hidden;
+  font-size: 14px;
+  line-height: 18px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  margin-bottom: 0 !important;
+}
+
+.container {
+  margin-top: 100px;
+}
+.profileImg {
+  display: block;
+  margin: auto;
+  border-radius: 100px;
+  height: 100px;
+  width: 100px;
+}
+.slick-prev:before,
+.slick-next:before {
+  color: white !important;
+}
+
+.follow {
+  background-color: #3897f0 !important;
+  border: 1px solid #3897f0 !important;
+  border-radius: 4px;
+  color: #fff;
+  margin-top: 20px !important;
+  width: 100%;
+}
+
+.text-white {
+  color: #fff;
+}
