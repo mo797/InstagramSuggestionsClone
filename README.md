@@ -6,9 +6,9 @@
 
 # View Deployment
 
-- [Click to view](https://csb-dq12d-7y32xvzzj.vercel.app/)
-
 > Deployed using Vercel
+
+- [Click to view](https://csb-dq12d-7y32xvzzj.vercel.app/)
 
 ## API References
 
